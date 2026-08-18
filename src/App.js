@@ -1,10 +1,15 @@
 
+import { Provider } from 'react-redux';
 import './App.css';
+import Body from './Components/Body';
+import appStore from './utils/appStore';
 
 function App() {
   return (
-    <div className="App">
-      <h2 className='text-3xl font-bold font-mono text-green-400'>Namaste Netflix</h2>
+    <div>
+      <Provider store={appStore}>
+        <Body />
+      </Provider>
     </div>
   );
 }

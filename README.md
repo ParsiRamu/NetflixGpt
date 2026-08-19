@@ -13,7 +13,11 @@
    -Created Store
    -Implement SignOut
    -Update Profile Api Call
+   -Bug Fix: if the user is ot logged in then it redirect tothe /browse to /-login page
+   -unsubscribed to the OnAuthstate change Callback
    -Fetch from tmdb movies(API)
+   -Add hardcoded values to  the constants.js
+
 
 
 # Features

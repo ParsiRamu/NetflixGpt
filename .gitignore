@@ -21,6 +21,7 @@
 .env.production.local
 .firebase/
 src/utils/firebase.js
+src/utils/Constants.js
 
 npm-debug.log*
 yarn-debug.log*

@@ -24,7 +24,8 @@
    -Run the video with(mute = 1)
    -Modification on the Tailwind Css
    -Build Secondary Component
-   
+   -Make the Movie Cards
+
 
 
 

@@ -43,7 +43,7 @@ const Header = () => {
     return ()=>unsubscribe()
   }, []);
   return (
-    <div className="absolute w-screen p-4 ml-3 bg-gradient-to-b from-black flex justify-between">
+    <div className="absolute z-50 top-0 w-screen p-4 ml-3 bg-gradient-to-b from-black flex justify-between">
       <img
         className="w-44"
         src={LOGO}

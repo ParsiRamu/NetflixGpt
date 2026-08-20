@@ -17,6 +17,14 @@
    -unsubscribed to the OnAuthstate change Callback
    -Fetch from tmdb movies(API)
    -Add hardcoded values to  the constants.js
+   -Custome Hook for NowPlayingMovie
+   -Planning
+   -Fetch the trailer video
+   -get the video in browse
+   -Run the video with(mute = 1)
+   -Modification on the Tailwind Css
+   -Build Secondary Component
+   
 
 
 
